@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guardian Feed</string>
+
+    <string name="loading_messege">Loading&amp;#8230</string>
+    <string name="list_empty_messege">No Record Found.</string>
+    <string name="no_internet_messege">No Internet Connection!</string>
+</resources>
